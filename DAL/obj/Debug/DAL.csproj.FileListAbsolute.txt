@@ -1,0 +1,9 @@
+C:\Users\bcgam\source\repos\QL_Tro\DAL\bin\Debug\DAL.dll
+C:\Users\bcgam\source\repos\QL_Tro\DAL\bin\Debug\DAL.pdb
+C:\Users\bcgam\source\repos\QL_Tro\DAL\bin\Debug\DTO.dll
+C:\Users\bcgam\source\repos\QL_Tro\DAL\bin\Debug\DTO.pdb
+C:\Users\bcgam\source\repos\QL_Tro\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\bcgam\source\repos\QL_Tro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bcgam\source\repos\QL_Tro\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bcgam\source\repos\QL_Tro\DAL\obj\Debug\DAL.dll
+C:\Users\bcgam\source\repos\QL_Tro\DAL\obj\Debug\DAL.pdb
